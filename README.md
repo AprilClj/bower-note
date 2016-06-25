@@ -4,6 +4,8 @@
 如JavaScript、HTML、CSS之类的网络资源，方便包文件以及包之间依赖的更新操作
 解决项目中因更新不及时而造成的各种问题。
 
+---
+
 ##　准备工作
 
 - Node环境
@@ -42,32 +44,32 @@ npm install -g bower
 - bower install http://example.com/script.js 从制定的URL上下载安装包文件
 
 
-### bower cache　缓存管理
+#### bower cache　缓存管理
 
-### bower help 显示Bower命令的帮助信息
+#### bower help 显示Bower命令的帮助信息
 
-### bower home 通过浏览器打开一个包的github发布页
+#### bower home 通过浏览器打开一个包的github发布页
 
-### bower info 查看包的信息
+#### bower info 查看包的信息
 
-### bower init　创建bower.json文件
+#### bower init　创建bower.json文件
 
-### bower install　安装包到项目
-### bower link　在本地bower库建立一个项目链接
+#### bower install　安装包到项目
+#### bower link　在本地bower库建立一个项目链接
 
-### bower list　列举项目已安装的包
+#### bower list　列举项目已安装的包
 
-### bower login　获得github的认证并存储凭据
+#### bower login　获得github的认证并存储凭据
 
-### bower lookup　根据包名查询包的URL
+#### bower lookup　根据包名查询包的URL
 
-### bower prune 删除项目无关的包
+#### bower prune 删除项目无关的包
 
-### bower register　注册一个包
+#### bower register　注册一个包
 
-### bower search　搜索包
+#### bower search　搜索包
 
-### bower update　更新项目的包
+#### bower update　更新项目的包
 
 ### bower uninstall　删除项目的包
 
