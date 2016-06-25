@@ -4,9 +4,7 @@
 如JavaScript、HTML、CSS之类的网络资源，方便包文件以及包之间依赖的更新操作
 解决项目中因更新不及时而造成的各种问题。
 
----
-
-##　准备工作
+## 准备工作
 
 - Node环境
 - NPM
@@ -77,7 +75,7 @@ npm install -g bower
 
 
 
-##　注意事项
+## 注意事项
 
 1.prezto and oh-my-zsh 用户　需要给bower取个别名　bower='noglob bower'
 
@@ -85,7 +83,7 @@ npm install -g bower
 
 2.Bower 是一个普通用户命令　因此无需使用超级管理员权限sudo关键字进行操作
 
-##　相关链接
+## 相关链接
 
 ### Bower homepage https://bower.io/
 
