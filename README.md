@@ -7,23 +7,23 @@
 ##　准备工作
 
 - Node环境
--　NPM
+- NPM
 - Git　从git仓库获取一些代码包
 
 ## 全局安装Bower
 
-- npm install -g bower 
+npm install -g bower 
 
 ## Bower init
 
->在应用程序的根目录下创建一个名为“bower.json”的文件，并定义它的依赖关系。
+在应用程序的根目录下创建一个名为“bower.json”的文件，并定义它的依赖关系。
 
 ## Bower　常用命令
 
 ### bower install 
 
->安装包使用 bower install <package>　命令
->所有的安装包文件放在bower_components/目录下
+安装包使用 bower install <package>　命令
+所有的安装包文件放在bower_components/目录下
 
 - bower install 安装bower.json中的项目依赖
 
@@ -31,7 +31,7 @@
 
 - bower install bootstrap 安装已经注册的包文件
 
--　bower install <package>#<version> --save 安装某个指定版本的包文件并写入bower.json的依赖项中
+- bower install <package>#<version> --save 安装某个指定版本的包文件并写入bower.json的依赖项中
 
 - bower install desandro/masonry 安装Github上的简明地址中的文件
 
